@@ -1,0 +1,9 @@
+I have such a good imagination! I can write everything!
+But I don't want to.
+git add .
+git commit -m "Added Chapter4.txt"
+git log
+git log
+Manager! Why I can't see my commits on terminal?
+- Just do mouseclick on your terminal. And don't forget to clear what you wrote on text file.
+- Yes, thanks.
